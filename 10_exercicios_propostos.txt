@@ -1,0 +1,44 @@
+Inicialização e Configuração:
+
+Inicialize um novo repositório Git em um diretório vazio.
+Configure seu nome de usuário e endereço de e-mail no Git.
+Commit Básico:
+
+Crie um arquivo chamado exemplo.txt.
+Adicione algumas linhas de texto ao arquivo.
+Faça o commit das alterações.
+Status e Diferenças:
+
+Verifique o status do repositório.
+Modifique o arquivo exemplo.txt e verifique as diferenças antes de realizar o commit.
+Faça o commit das alterações.
+Histórico:
+
+Visualize o histórico de commits.
+Utilize diferentes opções do comando git log para personalizar a visualização.
+Branches:
+
+Crie um novo branch chamado feature.
+Faça algumas alterações no novo branch e faça o commit.
+Volte para o branch principal (geralmente chamado main ou master).
+Merge:
+
+Faça o merge do branch feature no branch principal.
+Resolva conflitos de merge, se houver.
+Remoção e Movimentação:
+
+Remova o arquivo exemplo.txt.
+Mova um arquivo para um novo diretório e faça o commit.
+Ignorar Arquivos:
+
+Crie um arquivo chamado ignorar-me.txt.
+Adicione uma entrada no arquivo .gitignore para ignorar o arquivo.
+Revertendo Alterações:
+
+Faça uma alteração indesejada em um arquivo.
+Utilize o comando git checkout para desfazer a alteração.
+Repositórios Remotos:
+
+Crie um repositório no GitHub.
+Adicione o repositório remoto ao seu repositório local.
+Faça o push de seus commits para o repositório remoto.
